@@ -104,9 +104,6 @@ print(corr_coefficient(körpergrösse, einkommen))
 def weighted_average(list):
 	summe = 0
 
-with open('returns.txt', 'r') as returns:
-	print(returns)
-
 
 
 
